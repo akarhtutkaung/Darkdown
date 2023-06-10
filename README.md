@@ -1,14 +1,13 @@
-# Module 2 Group Assignment
+# Darkdown
 
-CSCI 5117, Spring 2022, [assignment description](https://canvas.umn.edu/courses/291031/pages/project-2)
+CSCI 5117, Spring 2022
 
 ## App Info:
 
 * Team Name: Oysters
 * App Name: Darkdown
-* App Link: <https://darkdown-44b5e.web.app/>
 
-### Students
+### Authors
 
 * Ace Kaung, kaung006@umn.edu
 * David Nguyen, nguy3482@umn.edu
@@ -16,6 +15,9 @@ CSCI 5117, Spring 2022, [assignment description](https://canvas.umn.edu/courses/
 * Ishan Joshi, joshi304@umn.edu
 * Sai Tallapragada, talla037@umn.edu
 
+## Summary
+
+This application enhanced the note taking feature for coders by integrading live markdown syntax and shortcuts into note. It also support adding image into the note as well as can be downloaded into mobile or desktop.
 
 ## Key Features
 
